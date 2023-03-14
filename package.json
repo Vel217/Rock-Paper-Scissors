@@ -1,0 +1,22 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "mocha": "^10.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
